@@ -1,0 +1,6 @@
+product_id,product_name,cost,price,category
+1,Classic T-Shirt,6.0,20.0,Apparel
+2,Sneakers,25.0,90.0,Footwear
+3,Baseball Cap,3.5,15.0,Accessories
+4,Jeans,18.0,60.0,Apparel
+5,Hoodie,12.0,45.0,Apparel
